@@ -101,9 +101,23 @@ p {
   text-decoration: none;
   padding: 12px 20px;
   border-radius: 45px;
-  margin: 55px;
+  margin: 60px;
   font-weight: 800;
   background-color: rgb(46, 25, 25);
   background-image: linear-gradient(rgb(255, 0, 149), rgb(243, 8, 47));
   color: rgb(0, 0, 0);
+}
+.verticallineinh3 {
+  font-size: 45px;
+  margin: 10px;
+}
+.sectiontwobackground2 {
+  background-image: url(shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 30%;
+  background-position: right;
+}
+.p2 {
+  margin: 10px;
+  text-align: justify;
 }
