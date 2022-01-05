@@ -1,0 +1,80 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0px;
+}
+.verticallineinh1 {
+  font-size: 60px;
+  margin: 30px;
+  border-left: 5px solid;
+  border-color: rgb(255, 0, 212);
+  padding: 2%;
+}
+p {
+  margin: 30px;
+  text-align: justify;
+}
+
+.firstglance {
+  text-decoration: none;
+  padding: 12px 20px;
+  border-radius: 45px;
+  margin: 30px;
+  font-weight: 800;
+  background-color: rgb(46, 25, 25);
+  background-image: linear-gradient(rgb(255, 0, 149), rgb(243, 8, 47));
+  color: rgb(0, 0, 0);
+}
+.sectionflexibility {
+  display: flex;
+  margin-bottom: 30px;
+}
+.imageandtextstyle {
+  width: 80%;
+  padding: 5%;
+}
+.imageandtextstyle img {
+  width: 80%;
+  padding: 10%;
+}
+.h1 {
+  font-size: 40px;
+  margin: 30px;
+  text-align: center;
+}
+.img {
+  width: 50%;
+  margin-top: 5px;
+  padding-left: 0px;
+}
+.boxmission {
+  width: 30%;
+  margin-right: -5%;
+  margin-left: 10%;
+  padding-left: 30px;
+  border-radius: 20px;
+  background-color: rgba(83, 11, 105, 0.171);
+}
+.padding {
+  margin-left: -2px;
+}
+.boxvission {
+  width: 30%;
+  margin-right: -5%;
+  margin-left: 10%;
+  padding-left: 30px;
+  border-radius: 20px;
+  background-color: rgba(0, 148, 216, 0.171);
+}
+.boxgoals {
+  width: 30%;
+  margin-right: -5%;
+  margin-left: 10%;
+  padding-left: 30px;
+  border-radius: 20px;
+  background-color: rgba(255, 0, 221, 0.212);
+}
+.sectiontwopadding {
+  padding: 0px;
+  margin-left: 1%;
+  margin-right: 13%;
+}
