@@ -78,3 +78,32 @@ p {
   margin-left: 1%;
   margin-right: 13%;
 }
+.sectiontwobackground {
+  background-image: url(shapes/shape-6.png);
+  background-repeat: no-repeat;
+  background-position-x: 45%;
+  background-position-y: 55%;
+  background-size: 30%;
+}
+.imageandtextstyle2 {
+  width: 80%;
+  padding: 5%;
+}
+.imageandtextstyle2 img {
+  width: 70%;
+  padding: 5%;
+}
+.verticallineinh {
+  font-size: 60px;
+  margin: 30px;
+}
+.linkedin {
+  text-decoration: none;
+  padding: 12px 20px;
+  border-radius: 45px;
+  margin: 55px;
+  font-weight: 800;
+  background-color: rgb(46, 25, 25);
+  background-image: linear-gradient(rgb(255, 0, 149), rgb(243, 8, 47));
+  color: rgb(0, 0, 0);
+}
