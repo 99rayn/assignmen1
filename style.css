@@ -121,6 +121,11 @@ p {
   margin: 10px;
   text-align: justify;
 }
+.bestnews {
+  text-align: center;
+  font-weight: 800;
+  font-size: 60px;
+}
 .footer {
   text-align: center;
   padding: 3px;
@@ -129,4 +134,10 @@ p {
 }
 .footerclass {
   text-align: center;
+}
+.bangladesh {
+  background-image: url(shapes/shape-3.png);
+  background-repeat: no-repeat;
+  background-size: 30%;
+  background-position: right;
 }
