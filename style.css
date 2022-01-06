@@ -126,6 +126,21 @@ p {
   font-weight: 800;
   font-size: 60px;
 }
+.sectiontwobackground2 {
+  background-image: url(shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-size: 30%;
+  background-position: right;
+}
+
+.sectionthreebackground3 {
+  background-image: url(shapes/shape-3.png);
+  background-repeat: no-repeat;
+  background-size: 10%;
+  background-position: right;
+  background-position-x: 90%;
+  background-position-y: 10%;
+}
 .footer {
   text-align: center;
   padding: 3px;
@@ -134,10 +149,4 @@ p {
 }
 .footerclass {
   text-align: center;
-}
-.bangladesh {
-  background-image: url(shapes/shape-3.png);
-  background-repeat: no-repeat;
-  background-size: 30%;
-  background-position: right;
 }
